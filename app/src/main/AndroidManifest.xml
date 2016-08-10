@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pt.deti.cavexh">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="pt.deti.cavexh.applicationclass.ApplicationClass"
+        android:allowBackup="true"
+        android:icon="@drawable/museum_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <receiver
+            android:name="io.branch.referral.InstallListener"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <meta-data
+            android:name="io.branch.sdk.TestMode"
+            android:value="false" /> <!-- Set to true to use Branch_Test_Key -->
+        <meta-data
+            android:name="io.branch.sdk.BranchKey"
+            android:value="key_live_oco1PwsTWcZOi4gKWGPtyhhesCahMeRv" />
+        <meta-data
+            android:name="io.branch.sdk.BranchKey.test"
+            android:value="key_test_mil8IuCI3iWKo1jO5ORSncgkxvloUeHL" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <activity
+            android:name="pt.deti.cavexh.SplashActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <data
+                    android:host="open"
+                    android:scheme="cavexh" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pt.deti.cavexh.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <data
+                    android:host="open"
+                    android:scheme="cavexh" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pt.deti.cavexh.qrreader.AnyOrientationCaptureActivity"
+            android:screenOrientation="fullSensor"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name="pt.deti.cavexh.history.HistoryActivity"
+            android:label="@string/history_activity_title"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pt.deti.cavexh.viewpager.ScreenSlidePagerActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="pt.deti.cavexh.viewpager.ImageZoom"
+            android:label="@string/title_activity_main2"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider1679140482338596"
+            android:exported="true" />
+
+        <activity
+            android:name="pt.deti.cavexh.favorites.FavoritesActivity"
+            android:label="@string/title_activity_favorites"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pt.deti.cavexh.authorslist.AuthorsListActivity"
+            android:label="@string/title_activity_authors_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pt.deti.cavexh.game.CropActivity"
+            android:label="@string/title_game_activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pt.deti.cavexh.game.CropResultActivity"
+            android:label="@string/title_game_activity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="pt.deti.cavexh.game.GameActivity"
+            android:label="@string/title_game_activity">
+            <meta-data
+                android:name="io.branch.sdk.auto_link_keys"
+                android:value="imagecode" />
+        </activity>
+        <activity
+            android:name="pt.deti.cavexh.options.OptionsActivity"
+            android:label="@string/drawer_definitions" />
+        <activity
+            android:name="pt.deti.cavexh.about.AboutActivity"
+            android:label="@string/drawer_about" />
+        <activity
+            android:name="pt.deti.cavexh.game.GameCorrectAnswer"
+            android:label="@string/title_activity_game_correct_answer"
+            android:theme="@style/AppTheme" />
+        <activity android:name="pt.deti.cavexh.tutorial.Tutorial" />
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="087c9dd0768b3450d516d75484fd4134f8a7e02b" />
+
+        <activity
+            android:name="pt.deti.cavexh.Credits"
+            android:label="@string/drawer_credits" />
+        <activity android:name="pt.deti.cavexh.tutorial.TutorialGame"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,115 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Splash Activity -->
+    <dimen name="splash_text_bottom_margin">10dp</dimen>
+    <dimen name="splash_text_size">12sp</dimen>
+
+    <!--Main Activity -->
+    <dimen name="drawer_width">240dp</dimen>
+    <dimen name="grid_view_vertical_spacing">0dp</dimen>
+    <dimen name="grid_view_horizontal_spacing">0dp</dimen>
+    <dimen name="drawer_margin_left">-50dp</dimen>
+    <dimen name="button_drawer_margin_left">-30dp</dimen>
+    <dimen name="button_drawer_margin_top">5dp</dimen>
+    <dimen name="grid_view_item_image_border">1dp</dimen>
+    <dimen name="grid_view_item_margin">10dp</dimen>
+    <dimen name="menu_button_padding">20dp</dimen>
+    <dimen name="grid_view_element_text_size">14sp</dimen>
+
+    <!-- View Pager -->
+    <dimen name="view_pager_text_padding">20dp</dimen>
+    <dimen name="view_pager_text_marginRight">20dp</dimen>
+    <dimen name="view_pager_FAB_padding_right">10dp</dimen>
+    <dimen name="view_pager_FAB_padding_bottom">10dp</dimen>
+    <dimen name="view_pager_title_marginLeft">20dp</dimen>
+    <dimen name="view_pager_title_marginTop">20dp</dimen>
+    <dimen name="view_pager_title_size">30dp</dimen>
+    <dimen name="view_pager_description_size">15dp</dimen>
+    <dimen name="view_pager_view_pager_landscape_height">300dp</dimen>
+    <dimen name="view_pager_view_pager_portrait_height">500dp</dimen>
+    <dimen name="view_pager_close_button_margin">5dp</dimen>
+
+    <!-- Drawer -->
+    <dimen name="drawer_header_padding_bottom">3dp</dimen>
+    <dimen name="drawer_header_image_height">130dp</dimen>
+    <dimen name="drawe_item_padding">8dp</dimen>
+    <dimen name="drawer_item_image_layout_width">24dp</dimen>
+    <dimen name="drawer_item_image_layout_height">24dp</dimen>
+    <dimen name="drawer_item_image_margin_left">16dp</dimen>
+    <dimen name="drawer_item_text_margin_left">32dp</dimen>
+    <dimen name="drawer_item_text_size">14sp</dimen>
+    <dimen name="drawer_facebook_button_margin">5dp</dimen>
+    <dimen name="drawer_item_height">48dp</dimen>
+    <dimen name="drawer_list_margin_bottom">25dp</dimen>
+
+    <!-- Favorites Activity -->
+    <dimen name="favorites_no_login_text_size">20sp</dimen>
+    <dimen name="favorites_no_login_fb_button_margin_top">30dp</dimen>
+    <dimen name="favorites_no_login_fb_button_margin_bottom">30dp</dimen>
+    <dimen name="favorites_header_image_height_portrait">150dp</dimen>
+    <dimen name="favorites_header_image_height_landscape">200dp</dimen>
+    <dimen name="favorites_header_image_margin">1dp</dimen>
+    <dimen name="favorites_item_title_margin">20dp</dimen>
+    <dimen name="favorites_item_title_text_size">25sp</dimen>
+    <dimen name="favorites_item_description_margin">20dp</dimen>
+    <dimen name="favorites_item_description_text_size">14sp</dimen>
+    <dimen name="favorites_item_remove_button_textSize">14sp</dimen>
+    <dimen name="favorites_remove_marginTop">10dp</dimen>
+    <dimen name="favorites_remove_marginRight">10dp</dimen>
+    <dimen name="favorites_remove_marginBottom">10dp</dimen>
+    <dimen name="favorites_no_login_text_margin">30dp</dimen>
+
+    <!-- History Activity -->
+    <dimen name="history_image_border_width">1dp</dimen>
+    <dimen name="history_image_margin_top">20dp</dimen>
+    <dimen name="history_image_margin_left">20dp</dimen>
+    <dimen name="history_description_padding">30dp</dimen>
+    <dimen name="history_back_arrow_width">20dp</dimen>
+    <dimen name="history_back_arrow_height">20dp</dimen>
+    <dimen name="history_back_arrow_margin">10dp</dimen>
+    <dimen name="history_text_insetPadding">5dp</dimen>
+    <dimen name="history_text_insetPaddingBottom">60dp</dimen>
+    <dimen name="history_portrait_image_measure">150dp</dimen>
+    <dimen name="history_landscape_image_measure">200dp</dimen>
+    <dimen name="history_padding_bottom">50dp</dimen>
+    <dimen name="history_margin_bottom">10dp</dimen>
+
+    <!-- Authors List Activity -->
+    <dimen name="al_header_image_height">40dp</dimen>
+    <dimen name="al_header_image_width">40dp</dimen>
+    <dimen name="al_header_padding">8dp</dimen>
+    <dimen name="al_header_height">40dp</dimen>
+    <dimen name="al_header_text_size">20sp</dimen>
+    <dimen name="al_header_image_marginLeft">20dp</dimen>
+    <dimen name="al_header_text_marginLeft">20dp</dimen>
+    <dimen name="al_list_item_text_marginLeft">80dp</dimen>
+    <dimen name="al_list_item_text_marginRight">10dp</dimen>
+    <dimen name="al_list_item_text_padding">10dp</dimen>
+
+    <!-- About Activity -->
+    <dimen name="about_title_margin">20dp</dimen>
+    <dimen name="about_text_margin">20dp</dimen>
+    <dimen name="about_title_fontsize">20sp</dimen>
+
+    <!-- Created image view dynamically -->
+    <dimen name="imageview_width">50dp</dimen>
+    <dimen name="imageview_height">50dp</dimen>
+    <dimen name="imageButton_padding">5dp</dimen>
+
+    <!-- Image Fragment -->
+    <dimen name="imageFragment_selector_padding">5dp</dimen>
+
+    <!-- Options Activity -->
+    <dimen name="options_text_size">14sp</dimen>
+    <dimen name="options_margin">5dp</dimen>
+    <dimen name="options_button_text_padding">70dp</dimen>
+
+    <!-- Game Activity -->
+    <dimen name="game_grid_view_item_margin">5dp</dimen>
+    <dimen name="text_margin">5dp</dimen>
+
+</resources>

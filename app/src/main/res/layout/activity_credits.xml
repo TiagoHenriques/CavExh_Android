@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true" >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/favorites_toolbar_background_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="?attr/actionBarSize">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/about_title_margin"
+            android:text="@string/app_name"
+            android:textStyle="bold"
+            android:textSize="@dimen/about_title_fontsize"
+            android:textColor="@color/about_title_color"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/about_text_margin"
+            android:text="@string/credits_1"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:text="@string/credits_2"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/AMC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:text="@string/credits_3"
+            android:textSize="14sp"
+            android:clickable="true"
+            android:linksClickable="true"
+            android:textColor="@color/link"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginTop="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:text="@string/credits_4"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:text="@string/credits_5"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginTop="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:text="@string/credits_6"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/dev"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/about_text_margin"
+            android:layout_marginRight="@dimen/about_text_margin"
+            android:layout_marginBottom="@dimen/about_text_margin"
+            android:text="@string/credits_7"
+            android:textSize="14sp"
+            android:clickable="true"
+            android:linksClickable="true"
+            android:textColor="@color/link"/>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

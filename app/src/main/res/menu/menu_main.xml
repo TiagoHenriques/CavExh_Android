@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pt.deti.cavexh_v4.MainActivity">
+    <item
+        android:id="@+id/readCodeMenuItem"
+        android:title="Read Code" />
+
+    <item
+        android:id="@+id/aboutMenuItem"
+        android:title="About" />
+
+    <item
+        android:id="@+id/elseMenuItem"
+        android:title="Else" />
+</menu>

@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">70 Cavaquinhos, 70 Artists</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_game_activity">Cavaquinho Game</string>
+
+    <string name="facebook_app_id" translatable="false">1679140482338596</string>
+
+    <string name="shared_preferences" translatable="false">pt.deti.cavexh_v7</string>
+
+    <string name="title_activity_main2">70 Cavaquinhos Exhibition</string>
+    <string name="title_activity_favorites">Favorites</string>
+
+    <!-- Samples ViewPager -->
+    <string name="pager_title">TITLE</string>
+    <string name="pager_description">Description</string>
+
+    <!-- Floating Button strings -->
+    <string name="share_facebook">Share on Facebook</string>
+    <string name="add_favorites">Add to Favorites</string>
+    <string name="play_game">Challenge friend</string>
+
+    <string name="title_activity_authors_list">Artists</string>
+
+    <string name="authors_activity_title">Artists</string>
+
+    <string name="history_activity_title">The Exhibition</string>
+
+    <!-- Splash Activity -->
+    <string name="splash_waiting_text">Waiting for application to start...</string>
+
+    <!-- Favorites activity -->
+    <string name="favorites_user_not_logged">You need to be logged in the application in order to save to your favorites!</string>
+    <string name="favorites_no_favorites_added">You haven\'t yet added favorites to your list.</string>
+    <string name="favorites_button_remove">Remove</string>
+
+    <!-- Options Activity -->
+    <string name="names_on_icons">Show the artists names in the mais gallery.</string>
+    <string name="download_images">Download images now for faster navigation.</string>
+    <string name="options_alert_dialog_title">Download Images</string>
+    <string name="options_alert_dialog_text">Are you sure you want to download the images to your internal storage device?</string>
+    <string name="options_already_last_version">You already have the latest version in your internal storage</string>
+    <string name="download_images_no_internet">You cannot make download the images without a stable Internet connection!</string>
+    <string name="download_started">Download started! Please do not turn off your Internet connection on the next few minutes!</string>
+    <string name="download_finished">Download completed!</string>
+
+    <!-- About activity -->
+    <string name="about_title">This Application</string>
+    <string name="about_text">The purpose of this application is to serve as support for the "70 Cavaquinhos, 70 Artists" exhibition,
+        where it is possible to not only make a virtual tour on the exhibition in order to see all the
+        70 exposed artworks, but also play a game where it is asked of the user to guess to which
+        cavaquinho does a determined detail belong to.</string>
+
+
+    <!-- Créditos -->
+    <string name="credits">Crédits</string>
+    <string name="credits_1">This application was developed in partnership between the Associação Museu Cavaquinho and students of
+        the Aveiro University, in the context of the existing protocol between the two entities.</string>
+    <string name="credits_2">Contents:</string>
+    <string name="credits_3">Associação Museu Cavaquinho</string>
+    <string name="credits_4">Photography:</string>
+    <string name="credits_5">José Manuel Costa Alves.</string>
+    <string name="credits_6">Development:</string>
+    <string name="credits_7">Universidade de Aveiro, DETI: Tiago Henriques, with the support of Ilídio Oliveira, Marcelo Baptista, João Cruz.</string>
+
+    <!-- Esta aplicação -->
+    <string name="this_app">This Application</string>
+
+    <!-- Game Activity -->
+    <string name="game_activity_choose_part">Choose the figure that contains this part (drag and drop): </string>
+    <string name="right_answer">That is correct! Congratulations!</string>
+    <string name="wrong_answer">That is not correct! Please try again!</string>
+
+    <!-- Toasts -->
+    <string name="no_internet_connection">You need to be connected to internet in order to launch the application.</string>
+    <string name="no_internet_connection_share">You need to be connected to internet in order to share to Facebook.</string>
+    <string name="no_internet_connection_favorites">You need to be connected to internet in order to save to your favorites.</string>
+    <string name="no_internet_connection_remove_favorites">You need to be connected to internet in order to remove items from your favorites.</string>
+    <string name="no_login_made">You need to be logged in in the application in order to add favorites to your list!</string>
+    <string name="image_added_to_facebook">Image added to favorites!</string>
+    <string name="invalid_qrcode">Invalid QR Code!</string>
+    <string name="game_no_internet">An Internet connection is necessary in order to be able to play!</string>
+
+    <!-- Navigation Drawer menu options -->
+    <string name="drawer_this_app">This Application</string>
+    <string name="drawer_qr_code">Read Code</string>
+    <string name="drawer_favorites">Favorites</string>
+    <string name="drawer_al">Artists</string>
+    <string name="drawer_history">The Exhibition</string>
+    <string name="drawer_play_game">Play Game</string>
+    <string name="drawer_definitions">Options</string>
+    <string name="drawer_about">This Application</string>
+    <string name="drawer_tutorial">Tutorial</string>
+    <string name="drawer_credits">Credits</string>
+
+    <!-- Crop part -->
+    <string name="no_permissions_to_apply_transformations">Cancelling, required permissions are not granted</string>
+    <string name="no_image_to_show">No image is set to show!</string>
+    <string name="message_game">Try to discover to which cavaquinho does this picture belongs!</string>
+    <string name="challenge_friend">Challenge Friend!</string>
+    <string name="game_crop">CROP</string>
+    <string name="title_activity_game_correct_answer">Correct answer!</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_title_1">You can access all application features from the menu.</string>
+    <string name="tutorial_desc_1">You can make login through facebook, access your favorites, know more about the exhibition among others.</string>
+    <string name="tutorial_title_2">You can play a game!</string>
+    <string name="tutorial_desc_2">In this game, you are given a piece of a cavaquinho, and then can drag and drop that piece to the correct answer!</string>
+    <string name="tutorial_title_3">You can also challenge a friend!</string>
+    <string name="tutorial_desc_3">You are given the opportunity to crop a piece of a cavaquinho and challenge a friend!</string>
+
+    <string name="game_title_1">This option is available in each cavaquinho.</string>
+    <string name="game_desc_1">You only need to open the provided menu and select the corresponding option.</string>
+    <string name="game_title_2">A new page opens with that cavaquinho.</string>
+    <string name="game_desc_2">You can then drag the corner of the provided square to decide an area to share. You can also rotate the cavaquinho.</string>
+    <string name="game_title_3">The image is then ready to share.</string>
+    <string name="game_desc_3">The click on the provided button allows the share on Facebook or by other mean.</string>
+
+    <string name="about_tutorial"><u>Application tutorial</u></string>
+    <string name="about_tutorial_2">What can I explore?</string>
+
+    <string name="about_tutorial_3"><u>Game Tutorial</u></string>
+    <string name="about_tutorial_4">How to play?</string>
+
+    <string name="new_version">There is a new image version available. You can download it in the Options of this application.</string>
+
+    <string name="game_warning">Press the back button to exit the game</string>
+
+</resources>

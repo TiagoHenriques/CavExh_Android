@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundColor">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:weightSum="11"
+            android:background="@color/backgroundColor">
+
+            <ImageView
+                android:id="@+id/imageGameRightAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/view_pager_view_pager_portrait_height"/>
+
+            <TextView
+                android:id="@+id/detailedTitle"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="left"
+                android:text="@string/pager_title"
+                android:textColor="@color/view_pager_title_textColor"
+                android:layout_marginLeft="@dimen/view_pager_title_marginLeft"
+                android:layout_marginTop="@dimen/view_pager_title_marginTop"
+                android:textSize="@dimen/view_pager_title_size"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/detailedDescription"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="5"
+                android:text="@string/pager_description"
+                android:textColor="@color/view_pager_textColor"
+                android:padding="@dimen/view_pager_text_padding"
+                android:textSize="@dimen/view_pager_description_size"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

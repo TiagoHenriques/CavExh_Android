@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/drawer_item_height">
+
+    <ImageView
+        android:layout_width="@dimen/drawer_item_image_layout_width"
+        android:layout_height="@dimen/drawer_item_image_layout_height"
+        android:layout_marginLeft="@dimen/drawer_item_image_margin_left"
+        android:id="@+id/iv_NavIcon"
+        android:src="@drawable/about_cav"
+        android:layout_gravity="center_vertical"/>
+
+    <TextView
+        android:layout_gravity="left"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/drawer_item_text_margin_left"
+        android:id="@+id/tv_NavTitle"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="@color/drawer_text_color"
+        android:textSize="@dimen/drawer_item_text_size"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+</LinearLayout>

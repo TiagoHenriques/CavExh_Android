@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/favorites_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/favorites_item_title_margin"
+            android:text="@string/pager_title"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/favorites_item_title_text_size"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/removeFromFavorites"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/favorites_button_remove"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:textColor="@color/favorites_remove_button_text_color"
+            android:textSize="@dimen/favorites_item_remove_button_textSize"
+            android:textStyle="bold"
+            android:layout_marginTop="@dimen/favorites_remove_marginTop"
+            android:layout_marginBottom="@dimen/favorites_remove_marginBottom"
+            android:layout_marginRight="@dimen/favorites_remove_marginRight"
+            android:layout_gravity="right"
+            style="?android:attr/borderlessButtonStyle"/>
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>

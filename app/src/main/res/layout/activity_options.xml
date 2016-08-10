@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true" >
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/favorites_toolbar_background_color"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="?attr/actionBarSize"
+        tools:context="pt.deti.cavexh.options.OptionsActivity"
+        android:background="@android:color/white">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_margin="@dimen/options_margin"
+            android:background="@android:color/white">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:text="@string/names_on_icons"
+                android:textColor="@android:color/black"
+                android:textSize="@dimen/options_text_size"
+                android:layout_gravity="center_vertical"/>
+
+            <CheckBox
+                android:id="@+id/checkBoxNames"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_gravity="right" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/download_images"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/download_images"
+            android:textAllCaps="false"
+            android:textSize="@dimen/options_text_size"
+            android:textAlignment="viewStart"
+            android:paddingRight="@dimen/options_button_text_padding"
+            android:layout_gravity="start"
+            android:layout_margin="@dimen/options_margin"
+            android:background="@android:color/white"/>
+
+
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

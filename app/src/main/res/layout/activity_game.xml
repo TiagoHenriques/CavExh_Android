@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="7"
+    android:background="@android:color/white">
+
+    <GridView
+        android:id="@+id/grid"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:numColumns="2">
+
+    </GridView>
+
+    <LinearLayout
+        android:id="@+id/text_and_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        android:background="@color/favorites_toolbar_background_color">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="3"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/game_activity_choose_part"
+            android:layout_marginLeft="@dimen/text_margin"/>
+
+        <ImageView
+            android:id="@+id/imageRes"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/image_border"
+            android:padding="5dp"/>
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

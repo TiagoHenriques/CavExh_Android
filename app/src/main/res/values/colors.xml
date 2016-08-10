@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#678eba</color>
+    <color name="colorPrimaryDark">#4a6e96</color>
+    <color name="colorAccent">#e91e63</color>
+    <color name="backgroundColor">#FFF</color>
+    <color name="textColor">#000</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <!-- Background color -->
+    <color name="background_color_blue">#678eba</color>
+
+    <!-- Used yellor for text -->
+    <color name="textColor_yellow">#fef4ae</color>
+
+    <!-- Splash Screen -->
+    <color name="splash_background_color">#FFF</color>
+    <color name="splash_text_color">#454545</color>
+
+    <!-- Main Activity -->
+    <color name="grid_view_item_image_border_color">#000</color>
+    <color name="grid_view_background_color">#668099</color>
+
+    <!-- View Pager -->
+    <color name="view_pager_main_FAB_color_normal">#678eba</color>
+    <color name="view_pager_main_FAB_color_pressed">#678eba</color>
+    <color name="view_pager_main_FAB_color_ripple">#99FFFFFF</color>
+    <color name="view_pager_sec_FAB_color_normal">#FFF</color>
+    <color name="view_pager_sec_FAB_color_pressed">#FFF</color>
+    <color name="view_pager_textColor">#000</color>
+    <color name="view_pager_title_textColor">#678eba</color>
+    <color name="view_pager_otherImg_back">#17000000</color>
+
+    <!-- Drawer -->
+    <color name="drawer_text_color">#000</color>
+
+    <!-- Authors List -->
+    <color name="al_toolbar_background_color">#678eba</color>
+    <color name="al_background_color">#678eba</color>
+    <color name="al_header_background_color">#678eba</color>
+    <!--<color name="al_header_text_color">#fef4ae</color>-->
+    <color name="al_header_text_color">#000</color>
+    <color name="al_item_text_color">#000</color>
+
+    <!-- PageView colors -->
+    <color name="buttons_background">#650606</color>
+    <color name="buttons_text">#fff</color>
+    <color name="detail_title">#650606</color>
+    <color name="detail_title_background">#33650606</color>
+
+    <!-- Favorites -->
+    <color name="favorites_toolbar_background_color">#678eba</color>
+    <color name="favorites_no_login_text_color">#000</color>
+    <color name="favorites_background_color">#fff</color>
+    <color name="favorites_item_title_color">#000</color>
+    <color name="favorites_item_description_color">#000</color>
+    <color name="favorites_remove_button_text_color">#991111</color>
+
+    <!-- History activity -->
+    <color name="history_toolbar_background_color">#668099</color>
+    <color name="history_background_color">#668099</color>
+    <color name="history_image_border_color">#000</color>
+    <color name="history_back_arrow_background_color">#00FFFFFF</color>
+
+    <!-- Image Fragment -->
+    <color name="imageFragment_pageSelector_fill__color">#678eba</color>
+    <color name="imageFragment_pageSelector_stroke__color">#678eba</color>
+    <color name="imageFragment_pageSelector_page__color">#FFF</color>
+
+    <!-- About Activity -->
+    <color name="about_title_color">#678eba</color>
+
+    <color name="link">#0B0080</color>
+
+</resources>

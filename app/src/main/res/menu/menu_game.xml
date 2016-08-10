@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/main_action_rotate"
+        android:icon="@android:drawable/ic_menu_rotate"
+        app:showAsAction="always"
+        android:title="rotate"/>
+    <item
+        android:id="@+id/main_action_crop"
+        app:showAsAction="always"
+        android:title="CROP"/>
+
+</menu>

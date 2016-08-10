@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">70 Cavaquinhos, 70 Artistas</string>
+    <string name="action_settings">Opções</string>
+    <string name="title_game_activity">Jogo do Cavaquinho</string>
+
+    <string name="title_activity_main2">Exposição 70 Cavaquinhos</string>
+    <string name="title_activity_favorites">Favoritos</string>
+
+    <!-- Samples ViewPager -->
+    <string name="pager_title">TITULO</string>
+    <string name="pager_description">Descrição</string>
+
+    <!-- Floating Button strings -->
+    <string name="share_facebook">Partilha no Facebook</string>
+    <string name="add_favorites">Adicionar aos favoritos</string>
+    <string name="play_game">Desafiar amigo</string>
+
+    <string name="title_activity_authors_list">Artistas Plásticos</string>
+
+    <string name="authors_activity_title">Lista de autores</string>
+
+    <string name="history_activity_title">A Exposição</string>
+
+    <!-- Splash Activity -->
+    <string name="splash_waiting_text">Por favor aguarde enquanto a sua aplicação é configurada.</string>
+
+    <!-- Favorites activity -->
+    <string name="favorites_user_not_logged">Precisa de estar com login efetuado para poder adicinar aos seus favoritos!</string>
+    <string name="favorites_no_favorites_added">Ainda não tem favoritos adicionados.</string>
+    <string name="favorites_button_remove">Remover</string>
+
+    <!-- Options Activity -->
+    <string name="names_on_icons">Mostrar o nome dos autores na galeria.</string>
+    <string name="download_images">Efetuar o download das imagens para navegação mais rápida.</string>
+    <string name="options_alert_dialog_title">Efetuar download</string>
+    <string name="options_alert_dialog_text">Tem a certeza que pretende efetuar o download das imagens para o armazenamento interno do seu dispositivo?</string>
+    <string name="options_already_last_version">A última versão de imagens já se encontra presente no seu dispositivo!</string>
+    <string name="download_images_no_internet">É impossivel a realização do download das imagens sem uma conexão estável à Internet!</string>
+    <string name="download_started">Download iniciado! Por favor não desligue a sua coneção à Internet nos próximos minutos.</string>
+    <string name="download_finished">Download completo!</string>
+
+    <!-- About activity -->
+    <string name="about_title">A Aplicação</string>
+    <string name="about_text">Esta Aplicação foi criada tendo como base a Exposição \"70 Cavaquinhos 70
+        Artistas\", onde não só podemos fazer uma visita virtual às 70 obras que
+        a compõem, como entrar num jogo onde temos que adivinhar a que
+        cavaquinho pertence um determinado pormenor de uma pintura.</string>
+
+    <!-- Créditos -->
+    <string name="credits">Créditos</string>
+    <string name="credits_1">Esta aplicação foi desenvolvida em conjunto pela Associação Museu Cavaquinho e alunos da
+        Universidade de Aveiro, no contexto do protocolo de colaboração existente entre as duas entidades.  </string>
+    <string name="credits_2">Conteúdos:</string>
+    <string name="credits_3">Associação Museu Cavaquinho</string>
+    <string name="credits_4">Fotografia:</string>
+    <string name="credits_5">José Manuel Costa Alves.</string>
+    <string name="credits_6">Desenvolvimento:</string>
+    <string name="credits_7">Universidade de Aveiro, DETI: Tiago Henriques, com o apoio de Ilídio Oliveira, Marcelo Baptista, João Cruz.</string>
+
+    <!-- Esta aplicação -->
+    <string name="this_app">Esta Aplicação</string>
+
+    <!-- Game Activity -->
+    <string name="game_activity_choose_part">Escolha a figura à qual pertence este fragmento (drag and drop): </string>
+    <string name="right_answer">Resposta certa! Parabéns!</string>
+    <string name="wrong_answer">Resposta errada! Volta a tentar!</string>
+
+    <!-- Toasts -->
+    <string name="no_internet_connection">É necessária uma ligação à Internet para poder usufruir desta aplicação. Por favor efetue a ligação e volte a tentar.</string>
+    <string name="no_internet_connection_share">É necessária uma ligação à Internet para poder partilhar no Facebook.</string>
+    <string name="no_internet_connection_favorites">É necessária uma ligação à Internet para poder guardar nos seus favoritos.</string>
+    <string name="no_internet_connection_remove_favorites">É necessária uma ligação à Internet para poder remover items dos seus favoritos.</string>
+    <string name="no_login_made">Precisa de estar com login efetuado para poder adicionar aos seus favoritos!</string>
+    <string name="image_added_to_facebook">Imagem adicionada aos seus favoritos!</string>
+    <string name="invalid_qrcode">O QR Code lido não é válido para esta aplicação.</string>
+    <string name="game_no_internet">É necessária uma ligação à Internet para poder jogar!</string>
+
+    <!-- Navigation Drawer menu options -->
+    <string name="drawer_this_app">Esta Aplicação</string>
+    <string name="drawer_qr_code">Ler Código</string>
+    <string name="drawer_favorites">Favoritos</string>
+    <string name="drawer_al">Artistas Plásticos</string>
+    <string name="drawer_history">A Exposição</string>
+    <string name="drawer_play_game">Jogar</string>
+    <string name="drawer_definitions">Configurações</string>
+    <string name="drawer_about">Esta Aplicação</string>
+    <string name="drawer_tutorial">Tutorial</string>
+    <string name="drawer_credits">Créditos</string>
+
+    <!-- Crop part -->
+    <string name="no_permissions_to_apply_transformations">Cancelado devido a falta de permissões!</string>
+    <string name="no_image_to_show">Não existe uma images para ser mostrada!</string>
+    <string name="message_game">Tenta descobrir a que cavaquinho pertence este fragmento de imagem!</string>
+    <string name="challenge_friend">Desafia um amigo!</string>
+    <string name="game_crop">CORTAR</string>
+    <string name="title_activity_game_correct_answer">Resposta certa!</string>
+
+    <!-- Tutorial -->
+    <string name="tutorial_title_1">Todas as opções são acedidas através do menu.</string>
+    <string name="tutorial_desc_1">Neste é possivel realizar o login na aplicação, ver os seus favoritos, saber um pouco mais sobre a exposição, entre outras.</string>
+    <string name="tutorial_title_2">É possivel jogar um jogo!</string>
+    <string name="tutorial_desc_2">Neste, terá de arrastar uma parte de um cavaquinho para o cavaquinho a que esta pertence!</string>
+    <string name="tutorial_title_3">Poderá também desafiar os seus amigos!</string>
+    <string name="tutorial_desc_3">Poderá também efetuar o "corte" de um cavaquinho para desafiar um dos seus amigos!</string>
+
+    <string name="game_title_1">A opção de jogo está disponivel em cada cavaquinho.</string>
+    <string name="game_desc_1">Para isso basta abrir o menu e escolher a respectiva opção.</string>
+    <string name="game_title_2">Uma página com esse cavaquinho é aberta.</string>
+    <string name="game_desc_2">Nesta, arastando os cantos do cavaquinho pode selecionar uma área a recortar. Pode também rodar o cavaquinho.</string>
+    <string name="game_title_3">A imagem está pronta a ser partilhada.</string>
+    <string name="game_desc_3">O click no botão presente permite desafiar através do Facebook ou qualquer outro meio.</string>
+
+    <string name="about_tutorial"><u>Tutorial da aplicação</u></string>
+    <string name="about_tutorial_2">O que posso explorar?</string>
+
+    <string name="about_tutorial_3"><u>Tutorial do Jogo</u></string>
+    <string name="about_tutorial_4">Como se joga?</string>
+
+    <string name="new_version">Existe uma nova versão de imagens. Pode efetuar o seu download nas opções da aplicação.</string>
+
+    <string name="game_warning">Pressione o botão back para sair do jogo.</string>
+
+</resources>

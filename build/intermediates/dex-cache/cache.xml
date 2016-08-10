@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/gson-2.4_3833286f39d6417b039b7af30882409112fe0f33.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_c18c0d6b802be380018fa3a5ea96bce473bf0029.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bb5a1ac4b6c613d9633d95538ebace906e8f2174">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_e0fb6e60dd0361636b79facb05a942e39d69369b.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_22c7dcf21f74e465d10340338e119c9b58b481e1.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_3ecf03075516f6353f426328442beafcb9408ca5.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_e39f8858ea062a59200f289579fe58d66dcc508f.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_91c8bec84718966fda05872e38b093d77ca8d1a4.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_e54c8d7dff0d6a9a4fb7895d01fb5e803bc42a2b.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0/5c06d197fb7fa875ad452f562e3310dd9949d066/retrofit-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c06d197fb7fa875ad452f562e3310dd9949d066">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0_5102c2a8d52b891ba77463d83d6acc69826a5456.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta4_b82c20f090e478c8f7f1f666a8167fa861ac4f4a.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.11/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9505232840ada5bc281f012c9798a6e49900d4ea">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/io.fabric.sdk.android-fabric-1.3.11_77b168f23e6e1ffa34bd9ec136055941137cf021.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_77619239eed93993544d6dea200cea88324651a8.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_3d1c304c1b1a88027de2eac90aac652e95fefd45.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/io.branch.sdk.android/library/1.14.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="032284b53a80414a4ef8eb3ee76be76ba9bc8c8e">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/io.branch.sdk.android-library-1.14.5_2c574412a2454cb6283efa28ef35a50f11404526.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_eb78531ef188e962a2abd6faf4efe07718f0aa90.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_88afccc27600cb0be0da84ab8be6539f164b3649.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_fd888f8063cafef1af18635c119b4af011b43822.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0989862100baae972a611ebbc8076cb0da8f6047">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.0.1_e181835923b88cee1b289678010aea2ffda49ad9.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/4.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.github.paolorotolo-appintro-4.0.0_68302d088720b225d9259bc4de1ee9fef3d753d0.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_5ea4791aed03d2395953694a6341b1ccc73cff36.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/okio-1.6.0_8fb9bc177028af96c0036c81943eeaf746dac802.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.commit451/PhotoView/1.2.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.commit451-PhotoView-1.2.4_7acf7eeb8681640982ca1e69fa100e7c87440f3b.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_b65abe5c8275c904e5b817eacafe87d88e016c60.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_af949bdcaa6350761fe0286febbc088914635ea1.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.5.6/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="cb73560edb89cb7afe1d0d5455595c27866af7c6">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-2.5.6_adb585ac3d00a0aeeb438ee1a01da6373734cc53.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_398c905f3dc63e92e48acf8258a99f4e7f82a6b1.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="557bcc987cc2438e5162476bc8c953a37b683fb9">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-beta-1.1.5_6188286e47918ffbab276577b220b8ed99281d27.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_849195d9cefd3dc385941ace90910d3d419bfd6c.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.mcxiaoke.viewpagerindicator/library/2.4.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a09ed9344035830949d3501230e0a85ebb4708f7">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.mcxiaoke.viewpagerindicator-library-2.4.1_c4f919bb8e6dca74d8e1d820dbc4728bb1fc6b5f.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_14d47dca42af56062924a44516608d74014689e2.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="674412d1938392056ce0d6b39ed05b9464fda667">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/instant-run_4e25b217ff34929c75b02cbc4f4e59e5c4fb6ab0.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_f90ab3cf78e564ea403f2ae1992f2bacb719307c.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/glide-3.7.0_cce3deda94a5670381d4bd85be3c8b04e1642a79.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_810eea95b32530c86f6508451bd05f6dec0dbac3.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_98617c9acd51231630b398ebeb991b9276b3f3c5.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.github.siyamed/android-shape-imageview/0.9.3/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ee07783aa59eefdeacc107abf472f45f60272302">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.github.siyamed-android-shape-imageview-0.9.3_9cd1646c998d71b6f09954dbd684891c8cdc88f6.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.github.bluejamesbond/textjustify-android/2.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="01d40085e187622594533159e2e21990edd60837">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.github.bluejamesbond-textjustify-android-2.1.1_f045848323c816e659ec114b62469de98c1a3827.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.7/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4711b6bd1e41291912e98c23954cb3d11ca36bd5">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-answers-1.3.7_47a0f41d083f59973cf6d3bcaee056dfdecf5764.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/libs/dropbox-android-sdk-1.6.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="986e7a58e925c6f91b88ae8d3224a0550b65acc7">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/dropbox-android-sdk-1.6.3_43f2c3ba5a0c9cd3d27a4fd2e781ef45ca33919d.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/io.branch.external.answersshim/answers-shim/0.0.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="42e4c84d64f98270d72f8672c72ca029488f769e">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/io.branch.external.answersshim-answers-shim-0.0.4_bbc0907b0273e0977afe1535721c5ea4deaafe14.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bcf11222c8dd57b4ddf4da06fa15c8fc3f903dd">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.9_f10b736cd414a84e83316a45e29e4d0a88bed435.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_027c119d2940571204998f72540587c5561287fb.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_8bc8052168e350282848608d4f4b8af92bb0f45f.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_fcf96308ccb8b9bdd7726b3f49fdca7a7e540991.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_1af26bdffd38c2d6d3a602946b9044170183a17b.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/core-3.2.1_1583552ce742aec7762bc866b3c1004569778f95.jar" />
+    </item>
+    <item
+        jar="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/exploded-aar/com.github.clans/fab/1.6.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/tiago/Documents/Thesis/Android/CavExh_v9/app/build/intermediates/pre-dexed/debug/com.github.clans-fab-1.6.2_da9a79a3205b089bf74762fa05e749e8ecffe6c6.jar" />
+    </item>
+
+</items>
